@@ -140,7 +140,7 @@ const Customerlogin = ({navigation}) => {
        
    >
             
-            <Text style= {styles.text1}>Need support?</Text>
+            <Text style= {styles.text1}>Need support ?</Text>
              </TouchableOpacity>
              
            </View>
